@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="LibMas/LibMas.csproj" />
+  <Project Path="Lib_5/Lib_5.csproj" />
+  <Project Path="praktos2/praktos2.csproj" />
+</Solution>
